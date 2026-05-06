@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A S R Developers - Portal</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #f4f4f9; }
+        h1 { color: #2c3e50; font-size: 40px; }
+        p { color: #555; font-size: 20px; }
+        .box { background: white; padding: 30px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>A S R Developers</h1>
+        <p>Welcome to the official team portal.</p>
+        <p>A digital platform connecting Sellers and Buyers securely.</p>
+    </div>
+</body>
+</html>
